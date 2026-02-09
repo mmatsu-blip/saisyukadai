@@ -1,0 +1,4 @@
+[ERROR] 2026-02-08 21:50:40,482 line 44, in <module>, session_id=522f7ac49db945cbad5a4e2fd5f761d9: 初期化処理に失敗しました。
+The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+[ERROR] 2026-02-08 21:53:34,351 line 44, in <module>, session_id=522f7ac49db945cbad5a4e2fd5f761d9: 初期化処理に失敗しました。
+The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
